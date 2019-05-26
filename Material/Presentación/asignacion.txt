@@ -1,0 +1,16 @@
+Presentación: Alvaro
+
+Requisitos:
+	-Cliente: Enrique
+	-Resto: Andres
+
+Casos de uso:
+	-Cliente: Nacho y Alvaro
+	-Personal: Juanba y Enrique
+	-Gerente: Jose Miguel y Andres
+
+Diagrama de secuencia: Juanba
+
+Diagrama de clases:
+	-Mesa: Alvaro
+	-Gestion: Jose Miguel
