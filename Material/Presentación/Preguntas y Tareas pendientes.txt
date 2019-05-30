@@ -1,0 +1,27 @@
+------ PREGUNTAS -------
+
+1. Enseñar diagrama de clases.
+
+2. ¿Cuanto desarrollar de la arquitectura?
+
+3. ¿Incluimos patrones de diseño?
+
+
+
+
+--- TAREAS PENDIENTES ---
+
+1. Analisis de riesgos.
+
+2. Dos diagrama de secuencia mas.
+
+3. Poner en las diapositivas el prototipado.
+
+4. Arreglar Diagrama de clases.
+
+5. Captura de Sinnaps.
+
+6. Quitar requisino funcional "camareros y metres". Puede                 ser No Funcional
+
+7. Programar app
+
