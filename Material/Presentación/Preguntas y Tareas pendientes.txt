@@ -21,7 +21,7 @@
 
 5. Captura de Sinnaps.
 
-6. Quitar requisino funcional "camareros y metres". Puede                 ser No Funcional
+6. Quitar requisito funcional "camareros y metres".
 
 7. Programar app
 
